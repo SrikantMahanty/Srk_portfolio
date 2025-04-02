@@ -160,4 +160,46 @@
             "yes": "예"
         }
     }
+
+,
+"or": {
+    "about": "ସମ୍ପର୍କରେ",
+    "all_categories": "ସମସ୍ତ",
+    "cancel": "ବାତିଲ",
+    "close": "ବନ୍ଦ",
+    "email": "ଇମେଲ୍",
+    "experience_year_count_less_than_one": "ଏକ ବର୍ଷରୁ କମ୍ ଅନୁଭବ",
+    "experience_year_count_plural": "{x} ବର୍ଷର ଅନୁଭବ",
+    "experience_year_count_singular": "{x} ବର୍ଷ ଅନୁଭବ",
+    "filter_by": "ଏହା ଦ୍ଵାରା ଛାଞ୍ଚନିର୍ମାଣ: {x}",
+    "full_screen_enter": "ପୁରା ପରଦା ଭିତରେ",
+    "full_screen_exit": "ପୁରା ପରଦାରୁ ବାହାରିବେ",
+    "leaving_site": "ଆପଣ ଏକ ବାହାରି ଲିଙ୍କକୁ ଯିବେ: <span class='text-muted'><br>«$url»</span><br><br>ଦୟାକରି ଯାଇବାକୁ ପୁଷ୍ଟି କରନ୍ତୁ।",
+    "magic_cursor_on": "ମ୍ୟାଜିକ୍ କର୍ସର୍: ଚାଲୁ",
+    "message": "ସନ୍ଦେଶ",
+    "message_sent_error": "ସନ୍ଦେଶ ପଠାଇବାରେ ଏକ ତ୍ରୁଟି ହୋଇଛି।",
+    "message_sent_success": "ଆପଣଙ୍କ ସନ୍ଦେଶ ସଫଳତାର ସହିତ ପଠାଯାଇଛି! ମୁଁ ଶୀଘ୍ର ଉତ୍ତର ଦେବି।",
+    "more_info": "ଅଧିକ ସୂଚନା",
+    "name": "ନାମ",
+    "next": "ପରବର୍ତ୍ତୀ",
+    "no": "ନା",
+    "now": "ବର୍ତ୍ତମାନ",
+    "open_gallery": "ଗ୍ୟାଲେରୀ ଖୋଲନ୍ତୁ",
+    "open_link": "ଲିଙ୍କ ଖୋଲିବେ?",
+    "previous": "ପୂର୍ବତନ",
+    "proceed": "ଅଗ୍ରସର ହୁଅନ୍ତୁ",
+    "see_certification": "ପ୍ରମାଣପତ୍ର ଦେଖନ୍ତୁ",
+    "see_more": "ଅଧିକ ଦେଖନ୍ତୁ",
+    "send_message": "ସନ୍ଦେଶ ପଠାନ୍ତୁ",
+    "subject": "ବିଷୟ",
+    "theme_dark": "ଅନ୍ଧକାର ମୋଡ୍",
+    "theme_light": "ଆଲୋକିତ ମୋଡ୍",
+    "toggle_sidebar": "ସାଇଡବାର ପରିବର୍ତ୍ତନ କରନ୍ତୁ",
+    "uhOh": "ଓଃ-ଓ!",
+    "watch_video": "ଭିଡିଓ ଦେଖନ୍ତୁ",
+    "where_to_find": "କେଉଁଠି ମିଳିବ",
+    "yay": "ଯେହେତୁ!",
+    "yes": "ହଁ"
 }
+}
+
