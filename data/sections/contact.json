@@ -1,0 +1,221 @@
+{
+    "locales": {
+        "en": {
+            "title": "Contact",
+            "title_long_prefix": "Don't hesitate to",
+            "title_long": "**Contact** Me"
+        },
+        "hn": {
+            "title": "संपर्क",
+            "title_long_prefix": "संकोच न करें",
+            "title_long": "**मुझसे संपर्क करें**"
+        },
+        "or": {
+            "title": "ସੰପର୍କ",
+            "title_long_prefix": "ସଂକୋଚ କରନ୍ତୁ ନାହିଁ",
+            "title_long": "**ମୋ ସହିତ ସମ୍ପର୍କ କରନ୍ତୁ**"
+        }
+    },
+    "articles": [
+        {
+            "id": "contact_form",
+            "component": "ArticleContactForm",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Send me a **message**"
+                },
+                "hn": {
+                    "title": "मुझे **संदेश** भेजें"
+                },
+                "or": {
+                    "title": "ମୋତେ **ସନ୍ଦେଶ** ପଠାନ୍ତୁ"
+                }
+,
+                "es": {
+                    "title": "Envíame un **mensaje**"
+                },
+                "fr": {
+                    "title": "Envoyez-moi un **message**"
+                },
+                "ko": {
+                    "title": "**메시지를** 보내주세요"
+                }
+            },
+            "items": null
+        },
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {
+                    "title": "Or if you **prefer**..."
+                },
+                "hn": {
+                    "title": "या यदि आप **पसंद करते हैं**..."
+                },
+                "or": {
+                    "title": "କିମ୍ବା ଯଦି ଆପଣ **ପସନ୍ଦ କରନ୍ତି**..."
+                },
+                "es": {
+                    "title": "O si **prefieres**..."
+                },
+                "fr": {
+                    "title": "Ou si vous **préférez**..."
+                },
+                "ko": {
+                    "title": "또는 **원하시면**..."
+                }
+            },
+            "items": [
+                {
+                    "value": "+91XXXXX108",
+                    "links": [
+                        {
+                            "href": "tel:6370431108"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-phone",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Phone"
+                        },
+                        "hn": {
+                            "title": "फ़ोन"
+                        },
+                        "or": {
+                            "title": "ଫୋନ୍"
+                        }
+                    }
+                },
+                {
+                    "value": "srikant....@email.com",
+                    "links": [
+                        {
+                            "href": "mailto:srikantmahanty0203@gmail.com"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "E-mail"
+                        },
+                        "hn": {
+                            "title": "ई-मेल"
+                        },
+                        "or": {
+                            "title": "ଇ-ମେଲ୍"
+                        }
+                    }
+                },
+                {
+                    "value": "@srikant",
+                    "links": [
+                        {
+                            "href": "https://www.linkedin.com/in/srikant-mahanty-a9329322b/"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linkedin",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "LinkedIn"
+                        },
+                        "hn": {
+                            "title": "लिंक्डइन"
+                        },
+                        "or": {
+                            "title": "ଲିଙ୍କଡ୍ଇନ୍"
+                        }
+                    }
+                },
+                {
+                    "value": "Mark Choi",
+                    "links": [
+                        {
+                            "href": "https://facebook.com"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-facebook",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Facebook"
+                        }
+                    }
+                },
+                {
+                    "value": "@markchoi",
+                    "links": [
+                        {
+                            "href": "https://instagram.com"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-instagram",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Instagram"
+                        }
+                    }
+                },
+                {
+                    "value": "@markchoi",
+                    "links": [
+                        {
+                            "href": "https://tiktok.com"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-tiktok",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "TikTok"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

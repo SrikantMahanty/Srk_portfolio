@@ -1,0 +1,246 @@
+{
+    "locales": {
+      "en": {
+        "title": "Welcome!",
+        "title_menu": "About me",
+        "title_long_prefix": "Hello...",
+        "title_long": "I'm **Srikant Mahanty **"
+      },
+      "hn": {
+        "title": "स्वागत है!",
+        "title_menu": "मेरे बारे में",
+        "title_long_prefix": "नमस्ते...",
+       "title_long": "मैं **श्रीकांत महांति** हूँ"
+      },
+      "or": {
+    "title": "ସ୍ୱାଗତ!",
+    "title_menu": "ମୋ ବିଷୟରେ",
+    "title_long_prefix": "ନମସ୍କାର...",
+    "title_long": "ମୁଁ **ଶ୍ରୀକାନ୍ତ ମହାନ୍ତି**"
+  }
+    },
+  
+    "articles": [
+      {
+        "id": "contact_list",
+        "component": "ArticleGrid",
+        "config": {
+          "ignorePaddingTop": true,
+          "format": "inline"
+        },
+        "locales": {
+          "en": {},
+          "es": {},
+          "fr": {},
+          "ko": {}
+        },
+  
+        "items": [
+          {
+            "value": "Berhampur, Odisha",
+          "links": [{ "href": "https://maps.app.goo.gl/c8GFpFRvcEmdETJa7" }],
+            "icon": {
+              "img": null,
+              "fa": "fa-solid fa-city",
+              "faColors": { "bg": null, "fill": null }
+            }
+          },
+          {
+            "value": "srikant.xxxx@gmail.com",
+            "links": [{ "href": "mailto:srikantmahanty0203@gmail.com" }],
+            "icon": {
+              "img": null,
+              "fa": "fa-solid fa-envelope",
+              "faColors": { "bg": null, "fill": null }
+            }
+          },
+          {
+            "value": "srikantmahanty",
+            "links": [{ "href": "https://github.com/srikantmahanty" }],
+            "icon": {
+              "img": null,
+              "fa": "fa-brands fa-github",
+              "faColors": { "bg": null, "fill": null }
+            }
+          },
+          {
+            "value": "Srikant ",
+            "links": [
+              { "href": "https://www.linkedin.com/in/srikant-mahanty-a9329322b/" }
+            ],
+            "icon": {
+              "img": null,
+              "fa": "fa-brands fa-linkedin",
+              "faColors": { "bg": null, "fill": null }
+            }
+          }
+        ]
+      },
+  
+      {
+        "id": "short_description",
+        "component": "ArticleInfoBlock",
+        "config": {},
+        "locales": {
+          "en": { "title": "**A little bit** about me..." },
+          "hn": { "title": "**थोड़ा बहुत** मेरे बारे में..." },
+          "or": { "title": "**କିଛି ଅଲ୍ପ** ମୋ ବିଷୟରେ..." }
+        }
+      ,
+      
+  
+        "items": [
+          {
+            "icon": {
+              "img": "images/svg/logo.svg",
+              "fa": null,
+              "faColors": { "bg": null, "fill": null }
+            },
+           "locales": {
+  "en": {
+    "text": "<p>👋 Hey there! I'm Srikant, a <b>Java Backend & Android Developer</b> passionate about crafting scalable backend architectures and efficient mobile applications.</p><ul><li>Designed and fine-tuned Android apps that have garnered <b>300K+ downloads</b>.</li><li>Developed backend services in Java using Spring Boot, ensuring high performance and reliability.</li><li>Integrated Firebase, third-party APIs, and secure authentication for seamless user experiences.</li><li>Implemented advanced features such as real-time messaging, deep linking, and media playback via ExoPlayer.</li><li>Optimized app performance using WorkManager, Flow API, and database enhancements.</li><li>Containerized applications using <b>Docker</b> for simplified deployment and scalability.</li></ul><p>Driven by problem-solving and innovation. Let's collaborate to build something game-changing! 🚀</p>"
+  },
+  "hn": {
+    "text": "<p>👋 नमस्ते! मैं श्रीकांत हूँ, एक <b>Java बैकएंड & Android डेवलपर</b> जो स्केलेबल बैकएंड सिस्टम और प्रभावी मोबाइल ऐप्स विकसित करने में रुचि रखता है।</p><ul><li><b>300K+ डाउनलोड्स</b> वाले Android ऐप्स को डिजाइन और अनुकूलित किया।</li><li>Spring Boot के साथ तेज़ और भरोसेमंद बैकएंड सेवाएँ विकसित कीं।</li><li>Firebase, थर्ड-पार्टी APIs और सुरक्षित ऑथेंटिकेशन को एकीकृत किया।</li><li>रियल-टाइम चैट, डीप लिंकिंग और ExoPlayer के माध्यम से मीडिया प्लेबैक जैसी उन्नत सुविधाएँ लागू कीं।</li><li>WorkManager, Flow API और डेटाबेस अनुकूलन द्वारा ऐप के प्रदर्शन को बेहतर बनाया।</li><li>अनुकूलित तैनाती और स्केलेबिलिटी के लिए <b>Docker</b> का उपयोग करके एप्लिकेशन कंटेनराइज़ किया।</li></ul><p>समाधान खोजने और नई तकनीकों को अपनाने का जुनून है। आइए मिलकर कुछ नया और प्रभावशाली बनाएं! 🚀</p>"
+  },
+  "or": {
+    "text": "<p>👋 ନମସ୍କାର! ମୁଁ ଶ୍ରୀକାନ୍ତ, ଜଣେ <b>Java Backend & Android Developer</b> ଯିଏ ଉନ୍ନତ ଏବଂ ସ୍କେଲେବଲ୍ ବ୍ୟାକଏଣ୍ଡ ଅାର୍କିଟେକ୍ଚର ଓ ପ୍ରଭାବଶାଳୀ ମୋବାଇଲ୍ ଆପ୍ଲିକେସନ୍ ବନାଇବାରେ ରୁଚି ରଖେ।</p><ul><li><b>300K+ ଡାଉନ୍‌ଲୋଡ୍</b> ପ୍ରାପ୍ତ ହୋଇଥିବା Android ଆପ୍ସ ଡିଜାଇନ୍ ଏବଂ ଟ୍ୟୁନ୍ କରିଛି।</li><li>Spring Boot ବ୍ୟବହାର କରି ଉଚ୍ଚ ପ୍ରଦର୍ଶନ ଏବଂ ଭରସାଯୋଗ୍ୟ ବ୍ୟାକଏଣ୍ଡ ସେବା ଡିଭେଲପ୍ କରିଛି।</li><li>Firebase, ତୃତୀୟପକ୍ଷ API ଏବଂ ସୁରକ୍ଷିତ ଅଅଥେଣ୍ଟିକେସନ୍ ସମ୍ମିଳନ କରିଛି।</li><li>ଅପ୍ଲିକେସନ୍ ଦ୍ୱାରା ରିୟାଲ୍-ଟାଇମ୍ ମେସେଜିଂ, ଡିପ୍ ଲିଙ୍କିଂ ଏବଂ ExoPlayer ମାଧ୍ୟମରେ ମିଡିଆ ପ୍ଲେବ୍ୟାକ୍ ଯୋଡିଛି।</li><li>WorkManager, Flow API ଏବଂ ଡାଟାବେସ୍ ଅପ୍‌ଟିମାଇଜେସନ୍ ବ୍ୟବହାର କରି ପ୍ରଦର୍ଶନ ଉନ୍ନତ କରିଛି।</li><li>ସହଜ ତୈନାତି ଏବଂ ସ୍କେଲେବିଲିଟି ପାଇଁ <b>Docker</b> ବ୍ୟବହାର କରି ଆପ୍ଲିକେସନ୍ କଣ୍ଟେନାରାଇଜ୍ କରିଛି।</li></ul><p>ସମସ୍ୟା ସମାଧାନ ଏବଂ ନୂଆ ଉନ୍ନତି ମୋର ଜୁନୁନ୍। ଚାଲନ୍ତୁ କିଛି ଅନନ୍ୟ ଏବଂ ଚମତ୍କାର କାମ କରିବା! 🚀</p>"
+  }
+           }}
+  
+
+              
+        ]
+      },
+  
+      {
+        "id": "interests",
+        "component": "ArticleGrid",
+        "config": {
+          "format": "grid"
+        },
+        "locales": {
+          "en": { "title": "Professional **interests**" },
+          "hn": { "title": "पेशेवर **रुचियां**" }
+        },
+  
+        "items": [
+          {
+            "icon": {
+              "img": null,
+              "fa": "fa-brands fa-medium",
+              "faColors": null
+            },
+            "links": [{ "href": "https://medium.com/@srikantmahanty0203" }],
+            "value": null,
+            "locales": {
+              "en": {
+                "title": "Creating blog posts",
+                "info": "Writing my research and understanding so that it can help others."
+              },
+              "hn": {
+                "title": "ब्लॉग लिखना",
+                "info": "अपने शोध और समझ को लिखना ताकि यह दूसरों की मदद कर सके।"
+              }
+            }
+          },
+          {
+            "icon": {
+              "img": null,
+              "fa": "fa-solid fa-code",
+              "faColors": null
+            },
+            "links": [{ "href": "https://leetcode.com/u/smb020/" }],
+            "value": null,
+            "locales": {
+              "en": {
+                "title": "Leetcode Coding ",
+                "info": "I am interested in solving the complex algo problems ."
+              },
+              "hn": {
+                "title": "लीटकोड कोडिंग",
+                "info": "मुझे जटिल एल्गोरिदमिक समस्याओं को हल करना पसंद है।"
+              }
+            }
+          },
+          {
+            "icon": {
+              "img": null,
+              "fa": "fa-solid fa-camera-retro",
+              "faColors": null
+            },
+            "value": null,
+            "locales": {
+              "en": {
+                "title": "Photo Editing",
+                "info": "Enhancing photos through creative editing techniques."
+              },
+              "hn": {
+                "title": "फोटो एडिटिंग",
+                "info": "रचनात्मक संपादन तकनीकों के माध्यम से फ़ोटो को बेहतर बनाना।"
+              }
+            }
+          },
+          {
+            "icon": {
+              "img": null,
+              "fa": "fa-brands fa-linkedin",
+              "faColors": null
+            },
+            "links": [
+              { "href": "https://www.linkedin.com/in/srikant-mahanty-a9329322b/" }
+            ],
+            "value": null,
+            "locales": {
+              "en": {
+                "title": "LinkedIn Content Creator",
+                "info": "I create engaging and valuable content for LinkedIn."
+              },
+              "hn": {
+                "title": "लिंक्डइन कंटेंट क्रिएटर",
+                "info": "मैं लिंक्डइन के लिए रोचक और मूल्यवान सामग्री बनाता हूँ।"
+              }
+            }
+          },
+          {
+            "icon": {
+              "img": null,
+              "fa": "fa-brands fa-youtube",
+              "faColors": null
+            },
+            "links": [{ "href": "https://www.youtube.com/@codingpotential8300" }],
+            "value": null,
+            "locales": {
+              "en": {
+                "title": "YouTube",
+                "info": "Showcasing my projects and products."
+              },
+              "hn": {
+                "title": "यूट्यूब",
+                "info": "अपने प्रोजेक्ट्स और प्रोडक्ट्स का प्रदर्शन।"
+              }
+            }
+          },
+          {
+            "icon": {
+              "img": null,
+              "fa": "fa-solid fa-user-tie",
+              "faColors": null
+            },
+            "links": [{ "href": "https://myportfollio-b219a.web.app" }],
+            "value": null,
+            "locales": {
+              "en": {
+                "title": "Old Portfolio",
+                "info": "Old is gold."
+              },
+              "hn": {
+                "title": "पुराना पोर्टफोलियो",
+                "info": "पुराना सोना होता है।"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }

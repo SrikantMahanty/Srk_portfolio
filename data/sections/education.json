@@ -1,0 +1,173 @@
+{
+  "locales": {
+    "en": {
+      "title": "Education",
+      "title_long_prefix": "This is my",
+      "title_long": "**Educational** Background"
+    },
+    "hn": {
+      "title": "शिक्षा",
+      "title_long_prefix": "यह मेरी",
+      "title_long": "**शैक्षिक** पृष्ठभूमि"
+    },
+    "or": {
+      "title": "ଶିକ୍ଷା",
+      "title_long_prefix": "ଏହା ମୋର",
+      "title_long": "**ଶିକ୍ଷାଗତ** ପୃଷ୍ଠଭୂମି"
+    }
+  },
+  "articles": [
+    {
+      "id": "academic",
+      "component": "ArticleTimeline",
+      "config": {},
+      "locales": {},
+      "items": [
+        {
+          "icon": {
+            "img": "images/pictures/nist.jfif",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "07/25/2020",
+            "end": "04/04/2024"
+          },
+          "locales": {
+            "en": {
+              "title": "**BTech** in Computer Science",
+              "info": "NIST University",
+              "text": "<p>Completed Bachelor Of Technology in Computer Science and Engineering from NIST University with a CGPA of 8.70 and learned:</p> <ul><li>Data Structures</li><li>Operating Systems</li><li>Databases</li></ul><p class='mt-3'>Core Member of Club Excel **Coding Club**</p> <ul><li>Organized coding contests</li><li>Guided juniors</li><li>Conducted Git & GitHub workshop</li></ul> <p class='mt-3'>Developed projects in Android, Web, Machine Learning, and Deep Learning.</p>",
+              "tags": [
+                "Android",
+                "Deep Learning",
+                "Data Structures",
+                "Algorithms",
+                "Java"
+              ]
+            },
+            "hn": {
+              "title": "**बीटेक** कंप्यूटर साइंस में",
+              "info": "निस्ट यूनिवर्सिटी",
+              "text": "<p>निस्ट यूनिवर्सिटी से बीटेक पूरा किया, जहाँ मेरा सीजीपीए 8.70 था और मैंने सीखा:</p> <ul><li>डेटा संरचना</li><li>ऑपरेटिंग सिस्टम</li><li>डेटाबेस</li></ul><p class='mt-3'>क्लब एक्सेल **कोडिंग क्लब** का प्रमुख सदस्य</p> <ul><li>कोडिंग प्रतियोगिताएँ आयोजित कीं</li><li>जूनियर्स को मार्गदर्शन दिया</li><li>Git और GitHub कार्यशाला आयोजित की</li></ul> <p class='mt-3'>एंड्रॉइड, वेब, मशीन लर्निंग और डीप लर्निंग में प्रोजेक्ट बनाए।</p>",
+              "tags": [
+                "एंड्रॉइड",
+                "डीप लर्निंग",
+                "डेटा संरचना",
+                "एल्गोरिदम",
+                "जावा"
+              ]
+            },
+            "or": {
+              "title": "**ବି-ଟେକ୍** କମ୍ପ୍ୟୁଟର୍ ସାଇଏନ୍ସ ରେ",
+              "info": "ନିଷ୍ଟ ୟୁନିଭର୍ସିଟି",
+              "text": "<p>ନିଷ୍ଟ ୟୁନିଭର୍ସିଟିରୁ କମ୍ପ୍ୟୁଟର୍ ସାଇଏନ୍ସ ଏବଂ ଏନ୍ଜିନିୟରିଂ ରେ ବ୍ୟାଚେଲର୍ ଅଫ୍ ଟେକ୍ନୋଲୋଜି ସମ୍ପୂର୍ଣ୍ଣ କରିଛି, ଯେଉଁଠି ମୋର CGPA 8.70 ଥିଲା ଏବଂ ମୁଁ ନିମ୍ନଲିଖିତ ପାଠ୍ୟ ପଢିଛି:</p> <ul><li>ଡାଟା ସଂରଚନା</li><li>ଅପାରେଟିଂ ସିଷ୍ଟମ୍</li><li>ଡାଟାବେସ୍</li></ul><p class='mt-3'>କ୍ଲବ୍ ଏକ୍ସେଲ୍ **କୋଡିଂ କ୍ଲବ୍** ର କୋର୍ ମେମ୍ବର୍</p> <ul><li>କୋଡିଂ ପ୍ରତିଯୋଗିତା ଆୟୋଜନ କଲି</li><li>ଜୁନିଅରମାନଙ୍କୁ ଗାଇଡ୍ କଲି</li><li>Git ଏବଂ GitHub ୱାର୍କଶପ୍ ଆୟୋଜନ କଲି</li></ul> <p class='mt-3'>ଏଣ୍ଡ୍ରଏଡ୍, ୱେବ୍, ମେସିନ୍ ଲର୍ନିଂ ଏବଂ ଡିପ୍ ଲର୍ନିଂ ରେ ପ୍ରୋଜେକ୍ଟ ଡିଭେଲପ୍ କଲି।</p>",
+              "tags": [
+                "ଏଣ୍ଡ୍ରଏଡ୍",
+                "ଡିପ୍ ଲର୍ନିଂ",
+                "ଡାଟା ସଂରଚନା",
+                "ଅଲଗୋରିଥମ୍",
+                "ଜାଭା"
+              ]
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/svm.jpg",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "04/01/2017",
+            "end": "03/03/2019"
+          },
+          "locales": {
+            "en": {
+              "title": "Intermediate in Science",
+              "info": "Saraswati Sishu Vidya Mandir",
+              "text": "<p>Completed Intermediate education in Science with a strong foundation in Physics, Chemistry, and Mathematics. Achieved 65%.</p>",
+              "tags": [
+                "Physics",
+                "Chemistry",
+                "Mathematics"
+              ]
+            },
+            "hn": {
+              "title": "इंटरमीडिएट विज्ञान में",
+              "info": "सरस्वती शिशु विद्या मंदिर",
+              "text": "<p>भौतिकी, रसायन और गणित में मजबूत नींव के साथ इंटरमीडिएट शिक्षा पूरी की। प्राप्तांक: 65%.</p>",
+              "tags": [
+                "भौतिकी",
+                "रसायन",
+                "गणित"
+              ]
+            },
+            "or": {
+              "title": "ଇନ୍ଟରମିଡିଏଟ୍ ବିଜ୍ଞାନ ରେ",
+              "info": "ସରସ୍ୱତୀ ଶିଶୁ ବିଦ୍ୟା ମନ୍ଦିର",
+              "text": "<p>ଭୌତିକବିଦ୍ୟା, ରସାୟନ ବିଦ୍ୟା ଏବଂ ଗଣିତର ଦୃଢ଼ ମୂଳଭୂମି ସହିତ ଇନ୍ଟରମିଡିଏଟ୍ ଶିକ୍ଷା ସମ୍ପୂର୍ଣ୍ଣ କଲି। ପ୍ରାପ୍ତ ଅଙ୍କ: 65%.</p>",
+              "tags": [
+                "ଭୌତିକବିଦ୍ୟା",
+                "ରସାୟନ ବିଦ୍ୟା",
+                "ଗଣିତ"
+              ]
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/svm.jpg",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "04/01/2004",
+            "end": "03/31/2017"
+          },
+          "locales": {
+            "en": {
+              "title": "Matriculation",
+              "info": "Saraswati Sishu Vidya Mandir",
+              "text": "<p>Completed Matriculation with distinction, excelling in Mathematics and Science. Achieved 84.17%.</p>",
+              "tags": [
+                "Mathematics",
+                "Science",
+                "English"
+              ]
+            },
+            "hn": {
+              "title": "मैट्रिकुलेशन",
+              "info": "सरस्वती शिशु विद्या मंदिर",
+              "text": "<p>गणित और विज्ञान में उत्कृष्टता के साथ मैट्रिकुलेशन पूरा किया। प्राप्तांक: 84.17%.</p>",
+              "tags": [
+                "गणित",
+                "विज्ञान",
+                "अंग्रेजी"
+              ]
+            },
+            "or": {
+              "title": "ମାଟ୍ରିକ୍ୟୁଲେସନ୍",
+              "info": "ସରସ୍ୱତୀ ଶିଶୁ ବିଦ୍ୟା ମନ୍ଦିର",
+              "text": "<p>ଗଣିତ ଏବଂ ବିଜ୍ଞାନରେ ଉତ୍କୃଷ୍ଟତା ସହିତ ମାଟ୍ରିକ୍ୟୁଲେସନ୍ ସମ୍ପୂର୍ଣ୍ଣ କଲି। ପ୍ରାପ୍ତ ଅଙ୍କ: 84.17%.</p>",
+              "tags": [
+                "ଗଣିତ",
+                "ବିଜ୍ଞାନ",
+                "ଇଂରାଜୀ"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

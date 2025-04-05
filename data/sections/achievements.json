@@ -1,0 +1,194 @@
+{
+  "locales": {
+    "en": {
+      "title": "Awards",
+      "title_menu": "Achievements",
+      "title_long_prefix": "Here are my",
+      "title_long": "Career **Achievements**"
+    },
+    "hn": {
+      "title": "पुरस्कार",
+      "title_menu": "उपलब्धियां",
+      "title_long_prefix": "ये हैं मेरे",
+      "title_long": "करियर की **उपलब्धियां**"
+    },
+    "or": {
+      "title": "ପୁରସ୍କାର",
+      "title_menu": "ସାଧନା",
+      "title_long_prefix": "ଏଗୁଡ଼ିକ ମୋର",
+      "title_long": "କେରିଅରର **ସାଧନା**"
+    }
+  },
+  "articles": [
+    {
+      "id": "certifications",
+      "component": "ArticleCards",
+      "config": {},
+      "locales": {
+        "en": {
+          "title": "Certifications"
+        },
+        "hn": {
+          "title": "प्रमाणपत्र"
+        },
+        "or": {
+          "title": "ପ୍ରମାଣପତ୍ର"
+        }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": "images/pictures/nptel-icon-filled-256.png",
+            "fa": "",
+            "faColors": {
+              "bg": "null",
+              "fill": "null"
+            }
+          },
+          "dates": {
+            "start": "07/01/2023",
+            "end": null
+          },
+          "links": [
+            {
+              "string": "see_certification",
+              "href": "https://media.licdn.com/dms/image/v2/C4D22AQGx74xga7V0kw/feedshare-shrink_1280/feedshare-shrink_1280/0/1668087840219?e=1746662400&v=beta&t=ZqYA8L2OGUT-EoXJ1L6Nghg4rVY_k2Ibph9EqZpwFuw"
+            }
+          ],
+          "locales": {
+            "en": {
+              "title": "**Data Structure and Algorithms** Using Java",
+              "text": "Certified by Indian Institute of Technology, Kharagpur in NPTEL with 57%."
+            },
+            "hn": {
+              "title": "**जावा का उपयोग करके डेटा संरचना और एल्गोरिदम**",
+              "text": "भारतीय प्रौद्योगिकी संस्थान, खड़गपुर द्वारा NPTEL में 82% अंकों के साथ प्रमाणित।"
+            },
+            "or": {
+              "title": "**ଜାଭା ବ୍ୟବହାର କରି ଡେଟା ସଂରଚନା ଏବଂ ଅଲଗୋରିଥମ୍**",
+              "text": "ଭାରତୀୟ ପ୍ରଯୁକ୍ତି ବିଶ୍ୱବିଦ୍ୟାଳୟ, ଖଡ଼ଗପୁର ଦ୍ୱାରା NPTEL ରେ 57% ସହିତ ପ୍ରମାଣିତ।"
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/nptel-icon-filled-256.png",
+            "fa": "",
+            "faColors": {
+              "bg": "#FFD700",
+              "fill": "#111"
+            }
+          },
+          "dates": {
+            "start": "12/10/2024",
+            "end": null
+          },
+          "links": [
+            {
+              "string": "see_certification",
+              "href": "https://www.linkedin.com/posts/srikant-mahanty-a9329322b_big-data-computing-activity-7129452507952480258-SFbo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmHO08BOxMMGchAjFWc6cdT6nIkRi6eUK0"
+            }
+          ],
+          "locales": {
+            "en": {
+              "title": "**Big Data Computing**",
+              "text": "Certified by Indian Institute of Technology, Roorkee in NPTEL with 81%. (Silver Badge)"
+            },
+            "hn": {
+              "title": "**बिग डेटा कंप्यूटिंग**",
+              "text": "भारतीय प्रौद्योगिकी संस्थान, रुड़की द्वारा NPTEL में 81% अंकों के साथ प्रमाणित। (सिल्वर बैज)"
+            },
+            "or": {
+              "title": "**ବିଗ୍ ଡେଟା କମ୍ପ୍ୟୁଟିଂ**",
+              "text": "ଭାରତୀୟ ପ୍ରଯୁକ୍ତି ବିଶ୍ୱବିଦ୍ୟାଳୟ, ରୁଡ଼କି ଦ୍ୱାରା NPTEL ରେ 81% ସହିତ ପ୍ରମାଣିତ। (ସିଲଭର୍ ବ୍ୟାଜ୍)"
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/coursera4660.jpg",
+            "fa": "",
+            "faColors": {
+              "bg": "#FFD700",
+              "fill": "#111"
+            }
+          },
+          "dates": {
+            "start": "12/10/2023",
+            "end": null
+          },
+          "links": [
+            {
+              "string": "see_certification",
+              "href": "https://shorturl.at/J8TD6"
+            }
+          ],
+          "locales": {
+            "en": {
+              "title": "**Google Data Analytics**",
+              "text": "Coursera certifies their successful completion of Google Data Analytics Specialization."
+            },
+            "hn": {
+              "title": "**गूगल डेटा एनालिटिक्स**",
+              "text": "Coursera ने उनकी Google Data Analytics Specialization की सफल पूर्णता को प्रमाणित किया।"
+            },
+            "or": {
+              "title": "**ଗୁଗୁଲ୍ ଡାଟା ଏନାଲିଟିକ୍ସ**",
+              "text": "Coursera ତାଙ୍କର Google Data Analytics Specialization ସଫଳ ଭାବେ ସମାପ୍ତ ହେବାକୁ ପ୍ରମାଣିତ କରିଛି।"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "awards",
+      "component": "ArticleThread",
+      "config": {},
+      "locales": {
+        "en": {
+          "title": "Awards"
+        },
+        "hn": {
+          "title": "पुरस्कार"
+        },
+        "or": {
+          "title": "ପୁରସ୍କାର"
+        }
+      },
+      "items": [
+        {
+          "dates": {
+            "start": "05/01/2024",
+            "end": null
+          },
+          "links": [
+            {
+              "string": "more_info",
+              "href": "https://www.linkedin.com/feed/update/urn:li:activity:7159451122951163904/"
+            }
+          ],
+          "locales": {
+            
+              "en": {
+                "title": "**Research Presentation** – International Conference",
+                "info": "Elated to share my participation in the DST SERB-sponsored International Conference on Artificial Intelligence of Things for Sustainability at NIST University. Thrilled to have received a Certificate of Presentation for my cutting-edge research paper titled 'Fundus Image Retrieval using Deep Learning Feature.'",
+                "text": "Presented innovative research on AI-driven fundus image retrieval using deep learning."
+              },
+              "hn": {
+                "title": "**शोध प्रस्तुति** – अंतर्राष्ट्रीय सम्मेलन",
+                "info": "मैं DST SERB प्रायोजित 'आर्टिफिशियल इंटेलिजेंस ऑफ थिंग्स फॉर सस्टेनेबिलिटी' अंतर्राष्ट्रीय सम्मेलन (NIST यूनिवर्सिटी) में अपनी भागीदारी साझा करने के लिए उत्साहित हूँ। मुझे 'Fundus Image Retrieval using Deep Learning Feature' शीर्षक वाले अपने शोध पत्र के लिए प्रस्तुति प्रमाणपत्र प्राप्त करने का गर्व है।",
+                "text": "डीप लर्निंग के उपयोग से एआई-संचालित फंडस इमेज पुनर्प्राप्ति पर नवीन शोध प्रस्तुत किया।"
+              },
+              "or": {
+                "title": "**ଗବେଷଣା ପ୍ରସ୍ତୁତି** – ଅନ୍ତର୍ଜାତୀୟ ସମ୍ମିଳନୀ",
+                "info": "ମୁଁ DST SERB ପ୍ରଯୋଜିତ 'Artificial Intelligence of Things for Sustainability' ଅନ୍ତର୍ଜାତୀୟ ସମ୍ମିଳନୀ (NIST University) ରେ ଭାଗ ନେଇଥିବା ଜଣାଇ ଗର୍ବିତ। ମୋର 'Fundus Image Retrieval using Deep Learning Feature' ଶୀର୍ଷକ ଗବେଷଣା ପତ୍ର ପାଇଁ Presentation Certificate ପାଇବାକୁ ଉତ୍ସାହିତ ଅଛି।",
+                "text": "ଡିପ୍ ଲର୍ନିଂ ବ୍ୟବହାର କରି AI-ଅଧିକୃତ ଫଣ୍ଡସ୍ ଇମେଜ୍ ପୁନଃପ୍ରାପ୍ତି ଉପରେ ନବୀନ ଗବେଷଣା ପ୍ରସ୍ତୁତ କରାଗଲା।"
+              }
+            }
+            
+          
+        }
+      ]
+    }
+  ]
+}

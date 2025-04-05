@@ -1,0 +1,84 @@
+{
+  "locales": {
+      "en": {
+          "title": "Experience",
+          "title_long_prefix": "Summary of my",
+          "title_long": "**Work** Experience"
+      },
+      "hn": {
+          "title": "अनुभव",
+          "title_long_prefix": "मेरे",
+          "title_long": "**कार्य** अनुभव का सारांश"
+      },
+      "or": {
+          "title": "ଅନୁଭବ",
+          "title_long_prefix": "ମୋର",
+          "title_long": "**କାମ** ଅନୁଭବର ସାରାଂଶ"
+      }
+  },
+  "articles": [
+      {
+          "id": "work",
+          "component": "ArticleTimeline",
+          "config": {},
+          "locales": {},
+          "items": [
+              {
+                  "icon": {
+                      "img": "images/pictures/download (8).png",
+                      "fa": "",
+                      "faColors": { "bg": "#111", "fill": "#EEE" }
+                  },
+                  "dates": {
+                     "start": "09/01/2024",
+            "end": "03/03/2025"
+                  },
+                  "locales": {
+                      "en": {
+                          "title": "Software Developer Trainee",
+                          "info": "Hyscaler Bhubaneswar",
+                          "text": "<p>Designed and developed custom applications using Odoo 17, focusing on optimizing workflows and enhancing the core module functionality. Integrated third-party APIs and provided technical support to ensure seamless user adoption and system efficiency.</p><p>Additionally, developed a WordPress plugin using WP Bone, enhancing website functionality with a Laravel-like framework.</p>",
+                          "tags": [
+                              "Odoo",
+                              "API Integration",
+                              "Technical Support",
+                              "Workflows",
+                              "Custom Applications",
+                              "WordPress",
+                              "WP Bone"
+                          ]
+                      },
+                      "hn": {
+                          "title": "सॉफ़्टवेयर डेवलपर ट्रेनी",
+                          "info": "Hyscaler Bhubaneswar",
+                          "text": "<p>Odoo 17 का उपयोग करके कस्टम अनुप्रयोगों को डिज़ाइन और विकसित किया, कार्यप्रवाह को अनुकूलित करने और कोर मॉड्यूल कार्यक्षमता को बढ़ाने पर ध्यान केंद्रित किया। तीसरे पक्ष की एपीआई को एकीकृत किया और तकनीकी समर्थन प्रदान किया ताकि उपयोगकर्ता गोद लेने और प्रणाली की दक्षता को सुगम बनाया जा सके।</p><p>इसके अतिरिक्त, WP Bone का उपयोग करके एक वर्डप्रेस प्लगइन विकसित किया, जिससे वेबसाइट की कार्यक्षमता को एक Laravel-जैसे ढांचे के साथ बढ़ाया गया।</p>",
+                          "tags": [
+                              "Odoo",
+                              "API एकीकरण",
+                              "तकनीकी समर्थन",
+                              "कार्यप्रवाह",
+                              "कस्टम अनुप्रयोग",
+                              "वर्डप्रेस",
+                              "WP Bone"
+                          ]
+                      },
+                      "or": {
+                          "title": "ସଫ୍ଟୱେର ଡେଭେଲପର ଟ୍ରେନି",
+                          "info": "Hyscaler Bhubaneswar",
+                          "text": "<p>Odoo 17 ବ୍ୟବହାର କରି କଷ୍ଟମ ଆପ୍ଲିକେସନ୍ ଡିଜାଇନ୍ ଏବଂ ବିକାଶ କରିଥିଲି, ଯାହା କାର୍ଯ୍ୟ ପ୍ରବାହକୁ ଅପ୍ଟିମାଇଜ୍ କରିବା ଏବଂ କୋର୍ ମଡ୍ୟୁଲ୍ କାର୍ଯ୍ୟକ୍ଷମତା ବୃଦ୍ଧି କରିବା ଉପରେ ଧ୍ୟାନ ଦେଇଥିଲା। ତୃତୀୟପକ୍ଷ API ଗୁଡ଼ିକୁ ଏକୀଭୂତ କରି ଏବଂ ତେହିକନିକାଲ ସହାୟତା ପ୍ରଦାନ କରିଥିଲି ଯାହା ଉପଭୋକ୍ତାଙ୍କ ଅନୁମୋଦନ ଏବଂ ପ୍ରଣାଳୀର କାର୍ଯ୍ୟକ୍ଷମତା ନିଶ୍ଚିତ କରେ।</p><p>ଅତିରିକ୍ତ ଭାବରେ, WP Bone ବ୍ୟବହାର କରି ଏକ WordPress ପ୍ଲଗିନ ବିକାଶ କରିଥିଲି, ଯାହା Laravel ର ଏକ ଆଧାରରେ ୱେବସାଇଟ୍ ଫଙ୍କସନାଲିଟିକୁ ବୃଦ୍ଧି କରିଥିଲା।</p>",
+                          "tags": [
+                              "Odoo",
+                              "API ଏକୀଭୂତ",
+                              "ତେହିକନିକାଲ ସହାୟତା",
+                              "କାର୍ଯ୍ୟ ପ୍ରବାହ",
+                              "କଷ୍ଟମ ଆପ୍ଲିକେସନ୍",
+                              "WordPress",
+                              "WP Bone"
+                          ]
+                      }
+                  }
+              }
+          ]
+      }
+  ]
+}
