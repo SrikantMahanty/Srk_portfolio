@@ -1,28 +1,23 @@
 {
     "locales": {
-        "en": {
-            "title": "Portfolio",
-            "title_long_prefix": "Take a look at",
-            "title_long": "My **Portfolio**"
-        },
-
-        "es": {
-            "title": "Portafolio",
-            "title_long_prefix": "Explora",
-            "title_long": "Mi **Portafolio**"
-        },
-
-        "fr": {
-            "title": "Portfolio",
-            "title_long_prefix": "Découvrez",
-            "title_long": "Mon **Portfolio**"
-        },
-
-        "ko": {
-            "title": "포트폴리오",
-            "title_long_prefix": "이것은 내",
-            "title_long": "**포트폴리오**입니다"
-        }
+        
+            "en": {
+              "title": "Portfolio",
+              "title_long_prefix": "Take a look at",
+              "title_long": "My **Portfolio**"
+            },
+            "hn": {
+              "title": "पोर्टफोलियो",
+              "title_long_prefix": "देखें",
+              "title_long": "मेरा **पोर्टफोलियो**"
+            },
+            "or": {
+              "title": "ପୋର୍ଟଫୋଲିଓ",
+              "title_long_prefix": "ଦେଖନ୍ତୁ",
+              "title_long": "ମୋର **ପୋର୍ଟଫୋଲିଓ**"
+            }
+          
+          
     },
 
     "articles": [

@@ -16,10 +16,9 @@
         "profilePictureUrl": "images/pictures/avatar.jpg",
 
         "locales": {
-            "en": {"role": "Backend Developer"},
-            "es": {"role": "Desarrollador Web"},
-            "fr": {"role": "Développeur Web"},
-            "ko": {"role": "웹 개발자"}
+           "en": { "role": "Backend Developer" },
+"es": { "role": "Desarrollador Web" },
+"or": { "role": "ବ୍ୟାକେଣ୍ଡ ଡିଭେଲପର୍" }
         }
     },
 

@@ -4,14 +4,20 @@
         "title": "Welcome!",
         "title_menu": "About me",
         "title_long_prefix": "Hello...",
-        "title_long": "I'm **Vibhav Kumar**"
+        "title_long": "I'm **Srikant Mahanty **"
       },
       "hn": {
         "title": "स्वागत है!",
         "title_menu": "मेरे बारे में",
         "title_long_prefix": "नमस्ते...",
-        "title_long": "मैं **विभव कुमार** हूँ"
-      }
+       "title_long": "मैं **श्रीकांत महांति** हूँ"
+      },
+      "or": {
+    "title": "ସ୍ୱାଗତ!",
+    "title_menu": "ମୋ ବିଷୟରେ",
+    "title_long_prefix": "ନମସ୍କାର...",
+    "title_long": "ମୁଁ **ଶ୍ରୀକାନ୍ତ ମହାନ୍ତି**"
+  }
     },
   
     "articles": [
@@ -31,8 +37,8 @@
   
         "items": [
           {
-            "value": "Giridih",
-            "links": [{ "href": "https://maps.app.goo.gl/c8GFpFRvcEmdETJa7" }],
+            "value": "Berhampur, Odisha",
+          "links": [{ "href": "https://maps.app.goo.gl/c8GFpFRvcEmdETJa7" }],
             "icon": {
               "img": null,
               "fa": "fa-solid fa-city",
@@ -40,8 +46,8 @@
             }
           },
           {
-            "value": "vibhav...@gmail.com",
-            "links": [{ "href": "mailto:vibhavkumarmishra00170@gmail.com" }],
+            "value": "srikant.xxxx@gmail.com",
+            "links": [{ "href": "mailto:srikantmahanty0203@gmail.com" }],
             "icon": {
               "img": null,
               "fa": "fa-solid fa-envelope",
@@ -49,8 +55,8 @@
             }
           },
           {
-            "value": "vibhav00",
-            "links": [{ "href": "https://github.com/Vibhav00" }],
+            "value": "srikantmahanty",
+            "links": [{ "href": "https://github.com/srikantmahanty" }],
             "icon": {
               "img": null,
               "fa": "fa-brands fa-github",
@@ -58,9 +64,9 @@
             }
           },
           {
-            "value": "vibhav",
+            "value": "Srikant ",
             "links": [
-              { "href": "https://www.linkedin.com/in/vibhavkumargrd00170" }
+              { "href": "https://www.linkedin.com/in/srikant-mahanty-a9329322b/" }
             ],
             "icon": {
               "img": null,
@@ -77,8 +83,11 @@
         "config": {},
         "locales": {
           "en": { "title": "**A little bit** about me..." },
-          "hn": { "title": "**थोड़ा बहुत** मेरे बारे में..." }
-        },
+          "hn": { "title": "**थोड़ा बहुत** मेरे बारे में..." },
+          "or": { "title": "**କିଛି ଅଲ୍ପ** ମୋ ବିଷୟରେ..." }
+        }
+      ,
+      
   
         "items": [
           {
@@ -87,15 +96,20 @@
               "fa": null,
               "faColors": { "bg": null, "fill": null }
             },
-            "locales": {
-              "en": {
-                "text": "<p>👋Hello,I'm Vibhav,an<b>Android Developer</b>with<b>1.5+ years</b>of experience in building high-performance mobile apps using Kotlin and Jetpack Compose.</p><ul><li>Developed and optimized Android apps with<b>300K+ downloads</b>.</li><li>Integrated third-party APIs,Firebase,and secure authentication.</li><li>Implemented deep linking,real-time chat,and ExoPlayer-based media playback.</li><li>Designed a secure PIN system and optimized app performance using WorkManager & Flow API.</li><li>Engineered scalable backend solutions with Node.js and deployed them on AWS.</li></ul><p>Passionate about problem-solving and innovation.Let's build something impactful!🚀</p>"
-              },
-              "hn": {
-                "text": "<p>👋नमस्ते,मैं विभव हूँ,एक<b>Android डेवलपर</b>जिसे<b>1.5+ वर्षों</b>का अनुभव है,जहाँ मैंने Kotlin और Jetpack Compose का उपयोग करके उच्च-प्रदर्शन मोबाइल ऐप्स विकसित किए हैं।</p><ul><li><b>300K+ डाउनलोड्स</b>वाले Android ऐप्स विकसित और ऑप्टिमाइज़ किए।</li><li>थर्ड-पार्टी APIs, Firebase और सुरक्षित ऑथेंटिकेशन को एकीकृत किया।</li><li>डीप लिंकिंग,रियल-टाइम चैट और ExoPlayer-आधारित मीडिया प्लेबैक लागू किया।</li><li>सुरक्षित PIN प्रणाली डिज़ाइन की और WorkManager एवं Flow API के साथ ऐप प्रदर्शन को बेहतर बनाया।</li><li>Node.js के साथ स्केलेबल बैकएंड समाधानों को विकसित किया और उन्हें AWS पर डिप्लॉय किया।</li></ul><p>समस्या समाधान और नवाचार के प्रति जुनूनी।आइए कुछ प्रभावशाली बनाएं!🚀</p>"
-              }
-            }
-          }
+           "locales": {
+  "en": {
+    "text": "<p>👋 Hey there! I'm Srikant, a <b>Java Backend & Android Developer</b> passionate about crafting scalable backend architectures and efficient mobile applications.</p><ul><li>Designed and fine-tuned Android apps that have garnered <b>300K+ downloads</b>.</li><li>Developed backend services in Java using Spring Boot, ensuring high performance and reliability.</li><li>Integrated Firebase, third-party APIs, and secure authentication for seamless user experiences.</li><li>Implemented advanced features such as real-time messaging, deep linking, and media playback via ExoPlayer.</li><li>Optimized app performance using WorkManager, Flow API, and database enhancements.</li><li>Containerized applications using <b>Docker</b> for simplified deployment and scalability.</li></ul><p>Driven by problem-solving and innovation. Let's collaborate to build something game-changing! 🚀</p>"
+  },
+  "hn": {
+    "text": "<p>👋 नमस्ते! मैं श्रीकांत हूँ, एक <b>Java बैकएंड & Android डेवलपर</b> जो स्केलेबल बैकएंड सिस्टम और प्रभावी मोबाइल ऐप्स विकसित करने में रुचि रखता है।</p><ul><li><b>300K+ डाउनलोड्स</b> वाले Android ऐप्स को डिजाइन और अनुकूलित किया।</li><li>Spring Boot के साथ तेज़ और भरोसेमंद बैकएंड सेवाएँ विकसित कीं।</li><li>Firebase, थर्ड-पार्टी APIs और सुरक्षित ऑथेंटिकेशन को एकीकृत किया।</li><li>रियल-टाइम चैट, डीप लिंकिंग और ExoPlayer के माध्यम से मीडिया प्लेबैक जैसी उन्नत सुविधाएँ लागू कीं।</li><li>WorkManager, Flow API और डेटाबेस अनुकूलन द्वारा ऐप के प्रदर्शन को बेहतर बनाया।</li><li>अनुकूलित तैनाती और स्केलेबिलिटी के लिए <b>Docker</b> का उपयोग करके एप्लिकेशन कंटेनराइज़ किया।</li></ul><p>समाधान खोजने और नई तकनीकों को अपनाने का जुनून है। आइए मिलकर कुछ नया और प्रभावशाली बनाएं! 🚀</p>"
+  },
+  "or": {
+    "text": "<p>👋 ନମସ୍କାର! ମୁଁ ଶ୍ରୀକାନ୍ତ, ଜଣେ <b>Java Backend & Android Developer</b> ଯିଏ ଉନ୍ନତ ଏବଂ ସ୍କେଲେବଲ୍ ବ୍ୟାକଏଣ୍ଡ ଅାର୍କିଟେକ୍ଚର ଓ ପ୍ରଭାବଶାଳୀ ମୋବାଇଲ୍ ଆପ୍ଲିକେସନ୍ ବନାଇବାରେ ରୁଚି ରଖେ।</p><ul><li><b>300K+ ଡାଉନ୍‌ଲୋଡ୍</b> ପ୍ରାପ୍ତ ହୋଇଥିବା Android ଆପ୍ସ ଡିଜାଇନ୍ ଏବଂ ଟ୍ୟୁନ୍ କରିଛି।</li><li>Spring Boot ବ୍ୟବହାର କରି ଉଚ୍ଚ ପ୍ରଦର୍ଶନ ଏବଂ ଭରସାଯୋଗ୍ୟ ବ୍ୟାକଏଣ୍ଡ ସେବା ଡିଭେଲପ୍ କରିଛି।</li><li>Firebase, ତୃତୀୟପକ୍ଷ API ଏବଂ ସୁରକ୍ଷିତ ଅଅଥେଣ୍ଟିକେସନ୍ ସମ୍ମିଳନ କରିଛି।</li><li>ଅପ୍ଲିକେସନ୍ ଦ୍ୱାରା ରିୟାଲ୍-ଟାଇମ୍ ମେସେଜିଂ, ଡିପ୍ ଲିଙ୍କିଂ ଏବଂ ExoPlayer ମାଧ୍ୟମରେ ମିଡିଆ ପ୍ଲେବ୍ୟାକ୍ ଯୋଡିଛି।</li><li>WorkManager, Flow API ଏବଂ ଡାଟାବେସ୍ ଅପ୍‌ଟିମାଇଜେସନ୍ ବ୍ୟବହାର କରି ପ୍ରଦର୍ଶନ ଉନ୍ନତ କରିଛି।</li><li>ସହଜ ତୈନାତି ଏବଂ ସ୍କେଲେବିଲିଟି ପାଇଁ <b>Docker</b> ବ୍ୟବହାର କରି ଆପ୍ଲିକେସନ୍ କଣ୍ଟେନାରାଇଜ୍ କରିଛି।</li></ul><p>ସମସ୍ୟା ସମାଧାନ ଏବଂ ନୂଆ ଉନ୍ନତି ମୋର ଜୁନୁନ୍। ଚାଲନ୍ତୁ କିଛି ଅନନ୍ୟ ଏବଂ ଚମତ୍କାର କାମ କରିବା! 🚀</p>"
+  }
+           }}
+  
+
+              
         ]
       },
   
@@ -117,11 +131,11 @@
               "fa": "fa-brands fa-medium",
               "faColors": null
             },
-            "links": [{ "href": "https://medium.com/@vkb120" }],
+            "links": [{ "href": "https://medium.com/@srikantmahanty0203" }],
             "value": null,
             "locales": {
               "en": {
-                "title": "Writing Blogs",
+                "title": "Creating blog posts",
                 "info": "Writing my research and understanding so that it can help others."
               },
               "hn": {
@@ -136,7 +150,7 @@
               "fa": "fa-solid fa-code",
               "faColors": null
             },
-            "links": [{ "href": "https://leetcode.com/vibhav_op_coder_1" }],
+            "links": [{ "href": "https://leetcode.com/u/smb020/" }],
             "value": null,
             "locales": {
               "en": {
@@ -174,7 +188,7 @@
               "faColors": null
             },
             "links": [
-              { "href": "https://www.linkedin.com/in/vibhavkumargrd00170" }
+              { "href": "https://www.linkedin.com/in/srikant-mahanty-a9329322b/" }
             ],
             "value": null,
             "locales": {
